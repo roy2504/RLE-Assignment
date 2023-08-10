@@ -1,6 +1,6 @@
 #include "Buffer.h"
 
-
+//Gitesh - DSA - Assignment 5
 
 // RLE encoding function
 int rle_encode(const char* input, char* output, char escape_char)
